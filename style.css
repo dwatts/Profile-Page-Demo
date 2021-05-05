@@ -33,6 +33,7 @@ p {
     background-color: #de8971;
     border-radius: 5px;
     color: #fff;
+    transition: 0.3s;
 }
 
 .btn-purple:hover {
@@ -52,6 +53,7 @@ ul li {
 .fab {
     color: #7b6079;
     font-size: 35px;
+    transition: 0.3s;
 }
 
 .fab:hover {
